@@ -9,7 +9,7 @@ Google OAuth 2.0 の PKCE フローを Express マイクロサービスで肩代
 
 ### 1. リポジトリをクローン
 ```bash
-git clone https://github.com/yourname/nuxt3-google-oauth-pkce-sample.git
+git clone https://github.com/RuumaLilja/nuxt3-google-oauth-pkce-sample.git
 cd nuxt3-google-oauth-pkce-sample
 ```
 
@@ -59,4 +59,4 @@ npm run dev   # http://localhost:3000 で起動
 本番運用では HTTPS や HTTP-Only Cookie の利用、トークンリフレッシュ設計を検討してください。
 
 ## ライセンス
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License, see the LICENSE.txt file for details.
