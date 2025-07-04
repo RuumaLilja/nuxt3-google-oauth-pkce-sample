@@ -57,6 +57,3 @@ npm run dev   # http://localhost:3000 で起動
 
 ## 注意事項
 本番運用では HTTPS や HTTP-Only Cookie の利用、トークンリフレッシュ設計を検討してください。
-
-## ライセンス
-This project is licensed under the MIT License, see the LICENSE.txt file for details.
